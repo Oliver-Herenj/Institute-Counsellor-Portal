@@ -24,17 +24,26 @@
 
 1) **Registration Page**
 
-    ![alt text]("images/AddEnquiry.PNG")
+    ![alt text](https://github.com/Oliver-Herenj/Training-Institute-Counsellor-Portal/blob/35742b874ebb84134d14acda375fb4f2a0f0f595/images/Registration.PNG)
 
 
 2) **Login Page**
 
+   ![alt text](https://github.com/Oliver-Herenj/Training-Institute-Counsellor-Portal/blob/35742b874ebb84134d14acda375fb4f2a0f0f595/images/Login.PNG)
+
 3) **Dashboard page**
 
+   ![alt text](https://github.com/Oliver-Herenj/Training-Institute-Counsellor-Portal/blob/35742b874ebb84134d14acda375fb4f2a0f0f595/images/Dashboard.PNG)
+
 4) **Add Enquiry**
-   ![alt text]("https://github.com/Oliver-Herenj/Training-Institute-Counsellor-Portal/blob/3b096657c2c6d001df793f81368137c9a4dd9a5a/images/AddEnquiry.PNG")
+   
+   ![alt text](https://github.com/Oliver-Herenj/Training-Institute-Counsellor-Portal/blob/35742b874ebb84134d14acda375fb4f2a0f0f595/images/AddEnquiry.PNG)
   
 
 6) **View Enquiries (with filter)**
 
+   ![alt text](https://github.com/Oliver-Herenj/Training-Institute-Counsellor-Portal/blob/35742b874ebb84134d14acda375fb4f2a0f0f595/images/ViewEnquiryFilter.PNG)
+
 7) **Edit and Update Enquiry**
+
+    ![alt text](https://github.com/Oliver-Herenj/Training-Institute-Counsellor-Portal/blob/35742b874ebb84134d14acda375fb4f2a0f0f595/images/AddEnquiry.PNG)
