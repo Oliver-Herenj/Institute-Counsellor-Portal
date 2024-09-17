@@ -1,4 +1,4 @@
-# Project : Training Institute Counsellor Portal
+# Project : Institute Counsellor Portal
 
 ## Project Introduction
 
